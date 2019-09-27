@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\ExportandoNotaFiscal\bin\Debug\netcoreapp2.2\ExportandoNotaFiscal.deps.json
+C:\Users\fic\Desktop\Csharp\ExportandoNotaFiscal\bin\Debug\netcoreapp2.2\ExportandoNotaFiscal.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\ExportandoNotaFiscal\bin\Debug\netcoreapp2.2\ExportandoNotaFiscal.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\ExportandoNotaFiscal\bin\Debug\netcoreapp2.2\ExportandoNotaFiscal.dll
+C:\Users\fic\Desktop\Csharp\ExportandoNotaFiscal\bin\Debug\netcoreapp2.2\ExportandoNotaFiscal.pdb
+C:\Users\fic\Desktop\Csharp\ExportandoNotaFiscal\obj\Debug\netcoreapp2.2\ExportandoNotaFiscal.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\ExportandoNotaFiscal\obj\Debug\netcoreapp2.2\ExportandoNotaFiscal.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\ExportandoNotaFiscal\obj\Debug\netcoreapp2.2\ExportandoNotaFiscal.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\ExportandoNotaFiscal\obj\Debug\netcoreapp2.2\ExportandoNotaFiscal.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\ExportandoNotaFiscal\obj\Debug\netcoreapp2.2\ExportandoNotaFiscal.dll
+C:\Users\fic\Desktop\Csharp\ExportandoNotaFiscal\obj\Debug\netcoreapp2.2\ExportandoNotaFiscal.pdb

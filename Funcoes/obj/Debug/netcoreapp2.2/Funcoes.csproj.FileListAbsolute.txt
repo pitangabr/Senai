@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Funcoes\bin\Debug\netcoreapp2.2\Funcoes.deps.json
+C:\Users\fic\Desktop\Csharp\Funcoes\bin\Debug\netcoreapp2.2\Funcoes.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Funcoes\bin\Debug\netcoreapp2.2\Funcoes.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Funcoes\bin\Debug\netcoreapp2.2\Funcoes.dll
+C:\Users\fic\Desktop\Csharp\Funcoes\bin\Debug\netcoreapp2.2\Funcoes.pdb
+C:\Users\fic\Desktop\Csharp\Funcoes\obj\Debug\netcoreapp2.2\Funcoes.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Funcoes\obj\Debug\netcoreapp2.2\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Funcoes\obj\Debug\netcoreapp2.2\Funcoes.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Funcoes\obj\Debug\netcoreapp2.2\Funcoes.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Funcoes\obj\Debug\netcoreapp2.2\Funcoes.dll
+C:\Users\fic\Desktop\Csharp\Funcoes\obj\Debug\netcoreapp2.2\Funcoes.pdb

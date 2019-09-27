@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\TabuadaComFor\obj\Debug\netcoreapp2.2\TabuadaComFor.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\TabuadaComFor\obj\Debug\netcoreapp2.2\TabuadaComFor.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\TabuadaComFor\obj\Debug\netcoreapp2.2\TabuadaComFor.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\TabuadaComFor\obj\Debug\netcoreapp2.2\TabuadaComFor.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\TabuadaComFor\bin\Debug\netcoreapp2.2\TabuadaComFor.deps.json
+C:\Users\fic\Desktop\Csharp\TabuadaComFor\bin\Debug\netcoreapp2.2\TabuadaComFor.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\TabuadaComFor\bin\Debug\netcoreapp2.2\TabuadaComFor.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\TabuadaComFor\bin\Debug\netcoreapp2.2\TabuadaComFor.dll
+C:\Users\fic\Desktop\Csharp\TabuadaComFor\bin\Debug\netcoreapp2.2\TabuadaComFor.pdb
+C:\Users\fic\Desktop\Csharp\TabuadaComFor\obj\Debug\netcoreapp2.2\TabuadaComFor.dll
+C:\Users\fic\Desktop\Csharp\TabuadaComFor\obj\Debug\netcoreapp2.2\TabuadaComFor.pdb

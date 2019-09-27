@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\NotaFiscal\obj\Debug\netcoreapp2.2\NotaFiscal.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\NotaFiscal\obj\Debug\netcoreapp2.2\NotaFiscal.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\NotaFiscal\obj\Debug\netcoreapp2.2\NotaFiscal.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\NotaFiscal\obj\Debug\netcoreapp2.2\NotaFiscal.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\NotaFiscal\bin\Debug\netcoreapp2.2\NotaFiscal.deps.json
+C:\Users\fic\Desktop\Csharp\NotaFiscal\bin\Debug\netcoreapp2.2\NotaFiscal.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\NotaFiscal\bin\Debug\netcoreapp2.2\NotaFiscal.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\NotaFiscal\bin\Debug\netcoreapp2.2\NotaFiscal.dll
+C:\Users\fic\Desktop\Csharp\NotaFiscal\bin\Debug\netcoreapp2.2\NotaFiscal.pdb
+C:\Users\fic\Desktop\Csharp\NotaFiscal\obj\Debug\netcoreapp2.2\NotaFiscal.dll
+C:\Users\fic\Desktop\Csharp\NotaFiscal\obj\Debug\netcoreapp2.2\NotaFiscal.pdb

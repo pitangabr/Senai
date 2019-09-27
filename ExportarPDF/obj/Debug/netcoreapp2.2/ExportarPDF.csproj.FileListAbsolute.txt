@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\ExportarPDF\bin\Debug\netcoreapp2.2\ExportarPDF.deps.json
+C:\Users\fic\Desktop\Csharp\ExportarPDF\bin\Debug\netcoreapp2.2\ExportarPDF.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\ExportarPDF\bin\Debug\netcoreapp2.2\ExportarPDF.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\ExportarPDF\bin\Debug\netcoreapp2.2\ExportarPDF.dll
+C:\Users\fic\Desktop\Csharp\ExportarPDF\bin\Debug\netcoreapp2.2\ExportarPDF.pdb
+C:\Users\fic\Desktop\Csharp\ExportarPDF\obj\Debug\netcoreapp2.2\ExportarPDF.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\ExportarPDF\obj\Debug\netcoreapp2.2\ExportarPDF.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\ExportarPDF\obj\Debug\netcoreapp2.2\ExportarPDF.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\ExportarPDF\obj\Debug\netcoreapp2.2\ExportarPDF.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\ExportarPDF\obj\Debug\netcoreapp2.2\ExportarPDF.dll
+C:\Users\fic\Desktop\Csharp\ExportarPDF\obj\Debug\netcoreapp2.2\ExportarPDF.pdb

@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\ForExercicio1\bin\Debug\netcoreapp2.2\ForExercicio1.deps.json
+C:\Users\fic\Desktop\Csharp\ForExercicio1\bin\Debug\netcoreapp2.2\ForExercicio1.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\ForExercicio1\bin\Debug\netcoreapp2.2\ForExercicio1.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\ForExercicio1\bin\Debug\netcoreapp2.2\ForExercicio1.dll
+C:\Users\fic\Desktop\Csharp\ForExercicio1\bin\Debug\netcoreapp2.2\ForExercicio1.pdb
+C:\Users\fic\Desktop\Csharp\ForExercicio1\obj\Debug\netcoreapp2.2\ForExercicio1.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\ForExercicio1\obj\Debug\netcoreapp2.2\ForExercicio1.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\ForExercicio1\obj\Debug\netcoreapp2.2\ForExercicio1.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\ForExercicio1\obj\Debug\netcoreapp2.2\ForExercicio1.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\ForExercicio1\obj\Debug\netcoreapp2.2\ForExercicio1.dll
+C:\Users\fic\Desktop\Csharp\ForExercicio1\obj\Debug\netcoreapp2.2\ForExercicio1.pdb
